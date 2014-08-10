@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>The Mandelbrot Fractal</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+		<div id="main">
+			<h1>The Mandelbrot Fractal</h1>
+			<div id="mandelbrot">
+				<div id="blurb">
+					<p>
+					A greyscale representation of the mandelbrot numerical set,
+					a series of imaginary numbers that satisfy the pattern <code>Z<sub>n+1</sub> = (Z<sub>n</sub><sup>2</sup>) + C</code>
+					where <code>Z<sub>n</sub></code> does not approach infinity, no matter how large the value of <code>n</code>.
+					</p>
+					<p>
+					To zoom in, <span class="highlight">left click</span>.
+					To zoom out, <span class="highlight">right click</span>.
+					</p>
+				</div>
+			</div>
+				<p>Please note, this demonstration requires a browser that implements the HTML5 canvas element</p>
+		</div>
+		<script type="text/javascript" src="engine.js"></script>
+	</body>
+</html>

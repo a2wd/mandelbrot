@@ -1,0 +1,24 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+canvas {
+	style:block;
+	border: 1px solid black;
+}
+
+#main {
+	width:100%;
+	text-align:center;
+}
+
+#blurb {
+	display:inline-block;
+	width:50%;
+	text-align:left;
+}
+
+.highlight {
+	border-bottom:1px dotted black;
+}
