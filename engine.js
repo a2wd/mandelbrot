@@ -1,6 +1,6 @@
 /*
-* Fractals for CS50
-* A final project to draw the Mandelbrot set
+* Fractals in Javascript
+* A project to draw the Mandelbrot set
 * in the HTML5 canvas element
 */
 
