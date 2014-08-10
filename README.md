@@ -8,4 +8,4 @@ The file engine.js contains the code for intialising a canvas element within a d
 Demo
 ----
 
-A live version of the fractal can be found at a2wd.github.io/mandelbrot feel free to play about with it
+A live version of the fractal can be found at http://a2wd.github.io/mandelbrot feel free to play about with it
