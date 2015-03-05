@@ -15,8 +15,11 @@ canvas {
 
 #blurb {
 	display:inline-block;
-	width:50%;
 	text-align:left;
+}
+
+#mandelbrot {
+	width:750px;
 }
 
 .highlight {
